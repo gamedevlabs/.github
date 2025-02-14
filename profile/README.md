@@ -7,6 +7,3 @@ At **Game Dev Labs**, we research and develop tools that blend **video games, ga
 👥 We are a team of **PhD researchers**, **Master’s students** in **Computer Science** & **Game Engineering**, collaborating to advance the field of game technology.  
 
 🛠️ Check out our projects and feel free to contribute!  
-
-## Current topics
-Tbd
